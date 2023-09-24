@@ -1,0 +1,26 @@
+.datamanage {
+  width: 100%;
+}
+.datamanage .search {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 20px 10px;
+}
+.datamanage .search .search-item {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.datamanage .add {
+  padding: 20px;
+  display: flex;
+  justify-content: flex-end;
+}
+.datamanage .table-show {
+  /* width: 1000px; */
+  /* width: 100%; */
+  /* height: 400px; */
+  overflow:scroll
+}

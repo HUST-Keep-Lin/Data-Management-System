@@ -1,0 +1,235 @@
+{
+  "infos": [
+    {
+      "name": "bfg",
+      "describe": "312321",
+      "tags": [
+        {
+          "name": "HTML",
+          "key": "dde7080e-4012-4d3a-82b7-677979a1ee75"
+        },
+        {
+          "name": "https",
+          "key": "2368b6e0-4cf1-486d-ad73-9d56e67bd13e"
+        }
+      ],
+      "key": "c3509b1b-8353-4753-9ed9-e21395892c5f",
+      "addTime": 1694763034590
+    },
+    {
+      "name": "wewe",
+      "describe": "无敌",
+      "tags": [
+        {
+          "name": "https",
+          "key": "2368b6e0-4cf1-486d-ad73-9d56e67bd13e"
+        }
+      ],
+      "key": "da7c6f4d-4c3f-4e6d-b238-491eacc00e3b",
+      "addTime": 1694509217780
+    },
+    {
+      "name": "2122",
+      "describe": "用户第一，坚持创新，诚信正直，乐观坚韧",
+      "tags": [
+        {
+          "name": "react",
+          "key": "d0c5a5d2-65d3-47ea-bd97-b1d264718e39"
+        },
+        {
+          "name": "node",
+          "key": "4e187eaa-046c-480e-97f9-60e75c2f1aa7"
+        },
+        {
+          "name": "nextjs",
+          "key": "7ecbaff5-e768-47c8-9e1e-c046ce740a31"
+        },
+        {
+          "name": "HTML",
+          "key": "dde7080e-4012-4d3a-82b7-677979a1ee75"
+        }
+      ],
+      "key": "b65f36f3-680e-405b-9c48-a15cee9dde3b",
+      "addTime": 1694509208040
+    },
+    {
+      "name": "张思学",
+      "describe": "帅哥",
+      "tags": [
+        {
+          "name": "react",
+          "key": "d0c5a5d2-65d3-47ea-bd97-b1d264718e39"
+        },
+        {
+          "name": "https",
+          "key": "2368b6e0-4cf1-486d-ad73-9d56e67bd13e"
+        }
+      ],
+      "key": "22ca51c7-18d3-4449-be01-a0dcbbd5b91b",
+      "addTime": 1691734376409
+    },
+    {
+      "name": "lkp",
+      "describe": "",
+      "tags": [
+        {
+          "name": "HTML",
+          "key": "dde7080e-4012-4d3a-82b7-677979a1ee75"
+        }
+      ],
+      "key": "737cab79-7aa6-48b6-beb9-e4983c656778",
+      "addTime": 1691573897832
+    },
+    {
+      "name": "GSGSDG",
+      "describe": "312321",
+      "tags": [],
+      "key": "d597ce0b-a8f9-404b-a7b2-32ee321a1d7c",
+      "addTime": 1691735477622
+    },
+    {
+      "name": "lkp2",
+      "describe": "111",
+      "tags": [
+        {
+          "name": "nextjs",
+          "key": "7ecbaff5-e768-47c8-9e1e-c046ce740a31"
+        },
+        {
+          "name": "https",
+          "key": "2368b6e0-4cf1-486d-ad73-9d56e67bd13e"
+        },
+        {
+          "name": "node",
+          "key": "4e187eaa-046c-480e-97f9-60e75c2f1aa7"
+        },
+        {
+          "name": "react",
+          "key": "d0c5a5d2-65d3-47ea-bd97-b1d264718e39"
+        },
+        {
+          "key": "2",
+          "name": "vue2"
+        }
+      ],
+      "key": "58171f94-e99c-43c8-be9d-e693d44fc8fc",
+      "addTime": 1691656823584
+    },
+    {
+      "name": "Joe111",
+      "describe": "111",
+      "tags": [
+        {
+          "name": "https",
+          "key": "2368b6e0-4cf1-486d-ad73-9d56e67bd13e"
+        }
+      ],
+      "key": "7fc2a7ab-9579-4426-88ec-33fd59d7fbd5",
+      "addTime": 1691479110911
+    },
+    {
+      "name": "cyw",
+      "describe": "312321",
+      "tags": [
+        {
+          "name": "react",
+          "key": "d0c5a5d2-65d3-47ea-bd97-b1d264718e39"
+        }
+      ],
+      "key": "3538f348-5d9f-4cd5-9284-d28e6763ec81",
+      "addTime": 1691296733917
+    }
+  ],
+  "tags": [
+    {
+      "name": "cyw",
+      "key": "4c54362a-4541-4c58-bb91-2b1d0baef36d"
+    },
+    {
+      "name": "Vuex",
+      "key": "67d1ee29-640a-4c0e-850e-a724d51b111a"
+    },
+    {
+      "name": "Vite",
+      "key": "d754143d-d97f-44e6-b7dd-5b2a88e44585"
+    },
+    {
+      "name": "lkpxbx",
+      "key": "42a6062c-3952-4857-a267-c04ddbd1efdf"
+    },
+    {
+      "name": "HTML",
+      "key": "dde7080e-4012-4d3a-82b7-677979a1ee75"
+    },
+    {
+      "name": "nextjs",
+      "key": "7ecbaff5-e768-47c8-9e1e-c046ce740a31"
+    },
+    {
+      "name": "https",
+      "key": "2368b6e0-4cf1-486d-ad73-9d56e67bd13e"
+    },
+    {
+      "name": "node",
+      "key": "4e187eaa-046c-480e-97f9-60e75c2f1aa7"
+    },
+    {
+      "name": "react",
+      "key": "d0c5a5d2-65d3-47ea-bd97-b1d264718e39"
+    },
+    {
+      "key": "2",
+      "name": "vue2"
+    }
+  ],
+  "languages": [
+    {
+      "type": "zh-CN",
+      "content": {
+        "theme": "数据管理平台",
+        "set": "设置",
+        "nav": [
+          "数据管理",
+          "标签管理"
+        ],
+        "id": "编号",
+        "name": "名称",
+        "desc": "描述",
+        "time": "添加时间",
+        "tags": "标签",
+        "action": "操作",
+        "btns": [
+          "搜索",
+          "重置",
+          "添加",
+          "编辑",
+          "删除"
+        ]
+      }
+    },
+    {
+      "type": "English",
+      "content": {
+        "theme": "Data management platform",
+        "set": "setting",
+        "nav": [
+          "Data-Management",
+          "Tag-Management"
+        ],
+        "id": "ID",
+        "name": "Name",
+        "describe": "Describe",
+        "tags": "Tags",
+        "time": "Time",
+        "action": "Action",
+        "btns": [
+          "Search",
+          "Reset",
+          "Add",
+          "Edit",
+          "Delete"
+        ]
+      }
+    }
+  ]
+}
